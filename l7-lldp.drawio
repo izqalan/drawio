@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T15:51:37.342Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.5" etag="h4DybJP7wXZXxP6nGwB_" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T15:54:28.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="O5ynlIDFdJSiJ9Ww81HG" version="21.3.5" type="github">
   <diagram name="Page-1" id="cPwrzSmziiuNRBr4NEeK">
-    <mxGraphModel>
+    <mxGraphModel dx="472" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sBle33smNbqIlu4NcjYE-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sBle33smNbqIlu4NcjYE-1" target="sBle33smNbqIlu4NcjYE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-1" value="RBO-edge" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="60" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sBle33smNbqIlu4NcjYE-2" target="sBle33smNbqIlu4NcjYE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-2" value="RBO-Firewall" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="230" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sBle33smNbqIlu4NcjYE-3" target="sBle33smNbqIlu4NcjYE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-3" value="sw-rbo1" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="380" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sBle33smNbqIlu4NcjYE-4" target="sBle33smNbqIlu4NcjYE-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-4" value="sw-rbo2" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="sBle33smNbqIlu4NcjYE-5" target="sBle33smNbqIlu4NcjYE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sBle33smNbqIlu4NcjYE-5" value="sw-rbo3" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
