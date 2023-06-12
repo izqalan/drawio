@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T04:40:49.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" version="21.3.8" etag="gQT4K2y36B8HV5TLtMWN" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T04:50:32.453Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="dUtxDvwojbOhmaSXDQyl" version="21.3.8" type="github">
   <diagram name="Page-1" id="zUPuQ-aVB5rDDO_pkBT-">
-    <mxGraphModel>
+    <mxGraphModel dx="1266" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sG2FcAuyblWAil0pAeDu-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sG2FcAuyblWAil0pAeDu-2" target="sG2FcAuyblWAil0pAeDu-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="240" />
+              <mxPoint x="520" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-7" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sG2FcAuyblWAil0pAeDu-4">
+          <mxGeometry x="0.0091" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-2" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-6" value="-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sG2FcAuyblWAil0pAeDu-3" target="sG2FcAuyblWAil0pAeDu-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="400" />
+              <mxPoint x="160" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-3" value="B" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="480" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-8" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;D(0) = &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[0,1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;-2,0]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;D(1) = &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[0,1&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;-2,-1]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-10" value="&lt;div&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;D(2) = &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[-1,0&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;-3,-2]&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="480" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sG2FcAuyblWAil0pAeDu-11" value="This matrix bad. because it will keep repeating the cycle infinitely to find the shortest path." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="360" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
